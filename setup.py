@@ -78,6 +78,8 @@ setup(
                       "mockextras",
 #                       "pandas<1.1.0",
 #                       "numpy<1.19.0",
+                      "pandas",
+                      "numpy",
                       "pymongo>=3.6.0, <= 3.11.0",
                       "pytz",
                       "tzlocal",
